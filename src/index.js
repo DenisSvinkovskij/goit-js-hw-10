@@ -42,5 +42,3 @@ function checkboxChange() {
     localStorage.setItem('checked-dark-theme', true);
   }
 }
-
-console.log(refs.checkbox.getAttribute('checked'));
